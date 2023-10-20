@@ -1,2 +1,2 @@
 #DSA
-this is about double circular linked list
+this is Data Structur courses
